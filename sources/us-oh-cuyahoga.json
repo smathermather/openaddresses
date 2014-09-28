@@ -23,4 +23,5 @@
         "type": "shapefile"
     },
     "processed": "http://s3.amazonaws.com/openaddresses/us-oh-cuyahoga.csv"
+    "year": 2006,
 }
